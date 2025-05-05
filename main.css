@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&family=Lexend:wght@100..900&family=Rufina:wght@400;700&family=Viaoda+Libre&display=swap');
+
+
+img {
+    width: 100%;
+     background-color: lightgray;
+     max-height: 650px;
+
+}
+
+.head{
+
+      background-color: lightgray;
+}
+
+.body {
+     background-color: lightgray;
+     margin: 0px;
+     padding: 0px;
+}
+
+body, html {
+    margin: 0px;
+    padding: 0px;
+}
+
+.body-text {
+	font-size: 20px;
+    max-width: 800px;
+    margin: 0px auto;
+    font-family: Rufina, serif;
+    line-height: 35px;
+   
+  }
+ 
+ .header{
+
+    background-color: lightgray;
+
+    text-align: center ;
+
+ }
+
+ .photo-caption{
+    font-size: 15px;
+ }
+
+ .header h1{
+
+font-size: 50px;
+    margin: 0px auto;
+    font-family: lexend, serif;
+    padding-top: 25px;
+     text-align: center;
+     max-width: 900px;
+ 
+ }
+
+ .deck{
+
+    font-size: 20px;
+    margin: 0px auto;
+    font-family: Rufina, serif;
+    text-align: center;
+    padding-top: 10px;
+    max-width: 900px;
+
+ }
+
+ .byline{
+
+    font-size: 15px;
+    padding-top: 0px;
+    font-family: Rufina, serif;
+    text-align: center;
+    padding-bottom: 15px;
+ }
+
+ .photo-caption{
+
+    font-size: 15px;
+    margin: 0px auto;
+    font-family: Rufina, serif;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+ }
+ 
+
+ .visualization{
+    background-color: lightgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+ }
+
+.footer {
+    padding: 20px;
+  font-family: Rufina, serif;
+    border-top: 3px solid black;
+margin: 0;
+width: 100%;
+}
+
+.footer-links a {
+ font-family: Rufina, serif;
+ color: cadetblue;
+ padding-top: 10px;
+
+}
+
+.byline a{
+ color: cadetblue;
+
+}
+
+.body a{
+     color: cadetblue;
+
+}
